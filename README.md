@@ -18,5 +18,5 @@ If you are interested in Digital Forensics and have questions like:
 Then this workshop is the right place for you.
 
 ## Workshop Resources
-- [Slides](https://docs.google.com/presentation/d/1xQIXdnXUIXjT6HC7sG67T8ImEaaTWg8mR4N8erqqxEQ/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/17-jCtdRoJgkJPNMBObHNa6INN4OmmD3w/edit)
 - [Workshop Link](https://bsidessg.org/schedule/endpoint-forensics/)
